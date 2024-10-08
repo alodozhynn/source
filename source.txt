@@ -1348,7 +1348,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 			ColorPicker.Visible = true
 			ColorPicker.Parent = TabPage
 			ColorPicker.Size = UDim2.new(1, -10, 0.028, 35)
-			Background.Size = UDim2.new(0, 39, 0, 22)
+			Background.Size = UDim2.new(0, 31, 0, 20)
 			Display.BackgroundTransparency = 0
 			Main.MainPoint.ImageTransparency = 1
 			ColorPicker.Interact.Size = UDim2.new(1, 0, 1, 0)
